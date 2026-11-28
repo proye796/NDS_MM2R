@@ -1,6 +1,6 @@
-# 『メタルマックス2:リローデッド』 NDS 한국어 패치 v1.1.2.2
+# 『メタルマックス2:リローデッド』 NDS 한국어 패치 v1.1.2.3
 
-배포일: 2026-11-24\
+배포일: 2026-11-28\
 대상: Metal Max 2 - Reloaded 일본판 — TMXJ, revision 0
 
 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다. 배포 ZIP에는 패치와 적용 도구를 담았습니다.
@@ -15,13 +15,11 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| MM2R-Korean-1.1.2.2.nds | 87,512,168 | e000df77cca0561b8e64f1e2755977e16f95b89b488c35d2b6f4c3833c3b7d83 |
+| MM2R-Korean-1.1.2.3.nds | 87,512,168 | c409917b479e0565e7ac04aae1c138f56f60a0120be5bea1c88743a1d2b100fd |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| MM2R-Korean-1.1.2.2.zip | 12,625,307 | a2a44e793813c460a2c85d4fdfb5ffa556eabca682dfcf65969a2476f150c3ed |
-| MM2R-Korean-1.1.2.2.bps | 20,790,911 | e65f1b77cfead749cd87abd0ef12b0666cb61e824cd8ed254d0bd60e25a78dce |
-
-ZIP에는 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.md), manifest.json, 검증정보, 글꼴·호환 처리 출처 및 라이선스가 들어 있습니다. 동봉 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
+| MM2R-Korean-1.1.2.3.zip | 12,623,153 | 18fd93dc82470e65a16d26caab5339895bff8b3d1a1c95f0722ba500a8aab31b |
+| MM2R-Korean-1.1.2.3.bps | 20,790,900 | 2bde506d30e683c120a35e6ac400984eb764369c29d6116b55619458845c763d |
